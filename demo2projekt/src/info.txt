@@ -1,1 +1,1 @@
-info text changed - branch version2
+info text changed - branch version2 - clone
